@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../todo-app"
+		},
+		{
+			"path": "../../todo-app-api"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
